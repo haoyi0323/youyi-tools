@@ -1,0 +1,23 @@
+{
+  "tools": [
+    {
+      "id": "reservation_matcher",
+      "name": "鹭府预定匹配工具",
+      "description": "智能匹配美团订单与预订记录，支持数据分析和导出",
+      "category": "数据处理",
+      "icon": "📊",
+      "module": "streamlit_app",
+      "class": "ReservationMatcherWeb",
+      "tags": ["数据匹配", "Excel处理", "美团订单", "预订管理"],
+      "featured": true,
+      "created_date": "2025-01-01"
+    }
+  ],
+  "categories": [
+    {"id": "data_processing", "name": "数据处理", "icon": "📊"},
+    {"id": "file_tools", "name": "文件工具", "icon": "📁"},
+    {"id": "text_tools", "name": "文本工具", "icon": "📝"},
+    {"id": "image_tools", "name": "图片工具", "icon": "🖼️"},
+    {"id": "utilities", "name": "实用工具", "icon": "🔧"}
+  ]
+}

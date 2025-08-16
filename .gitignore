@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE/Editor
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Streamlit
+.streamlit/logs/
+.streamlit/secrets.toml
+
+# Data (ignored by default for privacy)
+*.xlsx
+*.xls
+*.csv
+*.tsv
+data/
+datasets/
+tmp/
+temp/
+
+# Node
+node_modules/
+
+# Build
+build/
+dist/
