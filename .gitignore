@@ -49,3 +49,4 @@ node_modules/
 # Build
 build/
 dist/
+.vercel
